@@ -1,0 +1,77 @@
+Q1: When was Bulgaria first founded?
+Answers:
+1. Year 723
+2. Year 629
+3. Year 681 <
+4. Year 657
+
+Q2: Khan Krum is having:
+Answers:
+1. A fine wine from the skull of his enemy <
+2. A craftsman's ceramic cup
+3. An ego trip
+4. A dance macabre
+
+Q3: Tsar Boris converted the Bulgarians to Christianity in:
+Answers:
+1. Year 878
+2. Year 864 <
+3. Year 832
+4. Year 857
+
+Q4: The scholars Cyrill and Methodius are responsible for:
+Answers:
+1. The purging of the bolyars
+2. The erectment of St. Sofia church
+3. Creating the glagolica (old cyrillic) alphabet <
+4. Discoverers of St. Nicolas island
+
+Q5: Tsar Boris has:
+Answers:
+1. Been a devout follower of pope Bogomil
+2. Been responsible for the downfall of the First Bulgarian Tsardom
+3. Purged the bolyars in the name of uniting the pagan tribes <
+4. Spread belief in Tengrism
+
+Q6: Khan Omurtag is a:
+Answers:
+1. Brilliant medieval engineer that has built many bridges <
+2. Enemy to the Byzantine Empire
+3. Friend to Germanic tribes
+4. Protector against Arabian invasions on the Byzantine
+
+Q7: Tsar Simeon is responsible for:
+Answers:
+1. Funding and educating the era's most masterful blacksmiths
+2. The uniting of Southern Macedonia and Greece
+3. The downfall of the Byzantine Empire
+4. The Bulgarian golden era of education and prosperity <
+
+Q8: The Failed Battle of Shipka Pass, responsible for gathering the attention of the Great Powers concluded in
+Answers:
+1. August 1873
+2. August 1877
+3. August 1837
+4. August 1878 <
+
+Q9: Hristo Botev is:
+Answers:
+1. A Bulgarian poet and a writer <
+2. A guerilla operative in the Ottoman Empire
+3. An Ottoman commander
+4. The Admiral of The Bulgarian Fleet
+
+Q10: The great war hero, Vasil Levski, was captured and hanged. This tragedy occured on:
+Answers:
+1. Year 1873 <
+2. Year 1868
+3. Year 1879
+4. Year 1863
+
+Result:
+
+If (correct answers < 3) = YOU ARE NOT A BULGARIAN BARBARIAN.
+
+if (correct answers => 3) = YOU ARE ON THE CORRECT PATH. YOU MUST EXPLORE MORE.
+
+if (correct answers =>7) YOU ARE A BULGARIAN BARBARIAN.
