@@ -5,7 +5,7 @@
    -webkit-animation: name 21s ease infinite;
    -moz-animation: name 21s ease infinite;
    animation: name 21s ease infinite;
- }
+ 
 
  @-webkit-keyframes name {
    0% {
@@ -48,6 +48,7 @@
      background-position: 61% 0%
    }
  }
+}
 
 
 
